@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Fellow | <a href='https://micro.skku.ac.kr/micro/index.do'>Automation Lab</a> | <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University</a>.
 
