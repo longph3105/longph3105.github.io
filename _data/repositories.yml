@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - longph3105
+  - SKKUAutoLab
 
 repo_description_lines_max: 2
 
 github_repos:
   - longph3105/mon
-  - longph3105/sdce
-  - longph3105/augmentlib
-  - longph3105/aic26_cross_city
-  - longph3105/aic25_fisheye8k
+  - SKKUAutoLab/aic26_cross_city
+  - SKKUAutoLab/aic25_fisheye8k
