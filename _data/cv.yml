@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: Sungkyunkwan University (SKKU)
-        location: Suwon-si, South Korea
+        location: South Korea
         area: Computer Engineering
         studyType: PhD
         start_date: 2017
@@ -35,8 +35,8 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - institution: International University - VNU HCMC (HCMIU)
-        location: Ho Chi Minh City, Vietnam
+      - institution: International University (HCMIU)
+        location: Vietnam
         area: Information Technology Management
         studyType: Master
         start_date: 2014
@@ -45,8 +45,8 @@ cv:
         highlights:
           - University Valedictorian.
 
-      - institution: International University - VNU HCMC (HCMIU)
-        location: Ho Chi Minh City, Vietnam
+      - institution: International University (HCMIU)
+        location: Vietnam
         area: Computer Science
         studyType: Bachelor
         start_date: 2009
@@ -58,7 +58,7 @@ cv:
     Experience:
       - company: Automation Lab, SKKU
         position: Research Professor
-        location: Sungkyunkwan University, KR
+        location: South Korea
         start_date: 2021
         end_date:
         # summary: Developing deep learning models for robust outdoor, real-world surveillance tasks.
@@ -70,7 +70,7 @@ cv:
 
       - company: School of Computer Science & Engineering
         position: Research Assistant
-        location: Ho Chi Minh City, Vietnam
+        location: Vietnam
         start_date: 2015
         end_date: 2017
         # summary: Joined a city-funded research project ``Piloting Project on the Intelligent Traffic System of Ho Chi Minh City".
