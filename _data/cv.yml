@@ -31,9 +31,8 @@ cv:
         end_date: 2021
         # score: ""
         # courses: "Theory of Relativity"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        highlights:
+          - Advisor: [Prof. Jae Wook Jeon](https://scholar.google.co.kr/citations?user=9z0SfKoAAAAJ&hl=ko).
 
       - institution: International University (HCMIU)
         location: Vietnam
@@ -41,9 +40,10 @@ cv:
         studyType: Master
         start_date: 2014
         end_date: 2017
-        score: "3.8/4.0"
+        score: "GPA 3.8/4.0"
         highlights:
           - University Valedictorian.
+          - Advisor: [Dr. Synh Viet Uyen Ha](https://scholar.google.com/citations?user=fbsL_6cAAAAJ&hl=en).
 
       - institution: International University (HCMIU)
         location: Vietnam
@@ -54,6 +54,7 @@ cv:
         score: "3.85/4.0"
         highlights:
           - Department Salutatorian.
+          - Advisor: [Dr. Synh Viet Uyen Ha](https://scholar.google.com/citations?user=fbsL_6cAAAAJ&hl=en).
 
     Experience:
       - company: Automation Lab, SKKU
@@ -63,21 +64,20 @@ cv:
         end_date:
         # summary: Developing deep learning models for robust outdoor, real-world surveillance tasks.
         highlights:
-          - Researching deep learning models for robust outdoor, real-world surveillance tasks.
-          - Developing robust image processing algorithms for industrial manufacturing and quality control.
-          - Led a team to attend and win several international challenges at top conferences (CVPR, ICCV, ECCV, AAAI, ACCV).
-          - Guiding and supervising graduate and undergraduate students in their research papers and thesis projects.
+          - Researching deep learning models for real-world surveillance tasks.
+          - Developing image processing algorithms for industrial quality control.
+          - Win international challenges @ CVPR, ICCV, ECCV.
+          - Mentoring graduate students.
 
-      - company: School of Computer Science & Engineering
+      - company: School of Computer Science & Engineering, HCMIU
         position: Research Assistant
         location: Vietnam
         start_date: 2015
         end_date: 2017
         # summary: Joined a city-funded research project ``Piloting Project on the Intelligent Traffic System of Ho Chi Minh City".
         highlights:
-          - Joined a city-funded research project ``Piloting Project on the Intelligent Traffic System of Ho Chi Minh City".
-          - Developed and deployed a real-time surveillance system to extract traffic flow using CCTVs.
-          - Guided and supervised undergraduate students in their research papers and thesis projects.
+          - Built a real-time surveillance system to extract traffic flow using CCTVs.
+          - Mentored undergraduate students.
 
     # Volunteer:
     #   - company: People's Climate March
