@@ -62,10 +62,10 @@ cv:
         end_date:
         # summary: Developing deep learning models for robust outdoor, real-world surveillance tasks.
         highlights:
-          - Researching deep learning models for real-world surveillance tasks
-          - Developing image processing algorithms for industrial quality control
-          - Win international challenges @ CVPR, ICCV, ECCV
-          - Mentoring graduate students
+          - Researching deep learning models for real-world surveillance tasks.
+          - Developing image processing algorithms for industrial quality control.
+          - Win international challenges @ CVPR, ICCV, ECCV.
+          - Mentoring graduate students.
 
       - company: School of Computer Science & Engineering, HCMIU
         position: Research Assistant
@@ -74,8 +74,8 @@ cv:
         end_date: 2017
         # summary: Joined a city-funded research project ``Piloting Project on the Intelligent Traffic System of Ho Chi Minh City".
         highlights:
-          - Built a real-time surveillance system to extract traffic flow
-          - Mentored undergraduate students
+          - Built a real-time surveillance system to extract traffic flow.
+          - Mentored undergraduate students.
 
     # Volunteer:
     #   - company: People's Climate March
