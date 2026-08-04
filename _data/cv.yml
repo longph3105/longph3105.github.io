@@ -1,7 +1,7 @@
 cv:
   name: Long Hoang Pham
   label: Researcher
-  email: phlong@skku.edu
+  email: phlong@skku.edu | longpham3105@gmail.com
   location: Sungkyunkwan Univeristy, South Korea
   image: ""
   summary: A Vietnamese-born computer vision researcher specializing in robust scene understanding under adverse weather, low-light enhancement, and low-latency Edge AI deployment for real-time surveillance systems.
