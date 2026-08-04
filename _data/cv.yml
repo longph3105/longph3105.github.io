@@ -32,7 +32,7 @@ cv:
         # score: ""
         # courses: "Theory of Relativity"
         highlights:
-          - Advisor: [Prof. Jae Wook Jeon](https://scholar.google.co.kr/citations?user=9z0SfKoAAAAJ&hl=ko).
+          - Advisor: Prof. Jae Wook Jeon
 
       - institution: International University (HCMIU)
         location: Vietnam
@@ -43,7 +43,7 @@ cv:
         score: "GPA 3.8/4.0"
         highlights:
           - University Valedictorian.
-          - Advisor: [Dr. Synh Viet Uyen Ha](https://scholar.google.com/citations?user=fbsL_6cAAAAJ&hl=en).
+          - Advisor: Dr. Synh Viet Uyen Ha
 
       - institution: International University (HCMIU)
         location: Vietnam
@@ -54,7 +54,7 @@ cv:
         score: "3.85/4.0"
         highlights:
           - Department Salutatorian.
-          - Advisor: [Dr. Synh Viet Uyen Ha](https://scholar.google.com/citations?user=fbsL_6cAAAAJ&hl=en).
+          - Advisor: Dr. Synh Viet Uyen Ha
 
     Experience:
       - company: Automation Lab, SKKU
