@@ -5,10 +5,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - longph3105/mon
+  - longph3105/sdce
+  - longph3105/augmentlib
+  - longph3105/aic26_cross_city
+  - longph3105/aic25_fisheye8k
