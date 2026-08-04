@@ -8,6 +8,7 @@ nav: true
 nav_order: 4
 ---
 
+<!-- Display GitHub users -->
 {% if site.data.repositories.github_users %}
 
 ## GitHub users
@@ -20,7 +21,6 @@ nav_order: 4
 
 ---
 
-<!-- GitHub Trophies
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github_users.size > 1 %}
@@ -35,9 +35,10 @@ nav_order: 4
 
 {% endfor %}
 {% endif %}
-{% endif %}
--->
 
+{% endif %}
+
+<!-- Display GitHub repositories -->
 {% if site.data.repositories.github_repos %}
 
 ## GitHub Repositories
@@ -47,4 +48,5 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
+
 {% endif %}
