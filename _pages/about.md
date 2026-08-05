@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral Fellow | <a href='https://micro.skku.ac.kr/micro/index.do'>Automation Lab</a> | <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University</a>.
+subtitle: Postdoc Associate | <a href='https://micro.skku.ac.kr/micro/index.do'>Automation Lab</a> | <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University</a>.
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3  # leave blank to include all the blog posts
 ---
 
-I am currently a **Postdoctoral Fellow** in the Department of Electrical & Computer Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), working in the [Automation Lab](https://www.skku.edu/eng/index.do) advised by [Prof. Jae Wook Jeon](https://scholar.google.co.kr/citations?user=9z0SfKoAAAAJ&hl=ko).
+I am currently a **Postdoc Associate** in the Department of Electrical & Computer Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), working in the [Automation Lab](https://www.skku.edu/eng/index.do) advised by [Prof. Jae Wook Jeon](https://scholar.google.co.kr/citations?user=9z0SfKoAAAAJ&hl=ko).
 
 My primary research interests lie at the intersection of **Computer Vision, Image Processing, and Artificial Intelligence**. I am particularly passionate about designing robust, vision-based **Intelligent Surveillance Systems** to tackle real-world problems and optimizing them for deployment on resource-constrained mobile and edge devices.
 
