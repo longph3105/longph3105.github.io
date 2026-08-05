@@ -31,8 +31,8 @@ cv:
         end_date: 2021
         # score: ""
         # courses: "Theory of Relativity"
-        # highlights:
-        #   -
+        highlights:
+          - Full Scholarship
 
       - institution: International University (HCMIU)
         location: Vietnam
@@ -42,7 +42,10 @@ cv:
         end_date: 2017
         score: "3.8/4.0"
         highlights:
-          - University Valedictorian
+          - University Valedictorian (Intake 2015-2017)
+          - Excellent Scientific Publications Award
+          - Toshiba Scholarship for Graduate Students
+          - Full Scholarship (Master by Research Program)
 
       - institution: International University (HCMIU)
         location: Vietnam
@@ -53,6 +56,10 @@ cv:
         score: "3.85/4.0"
         highlights:
           - Department Salutatorian
+          - Rector’s Award for Academic Excellence
+          - Pony Chung Scholarship
+          - CSC Vietnam Scholarship
+          - University Entrance Scholarship
 
     Experience:
       - company: Automation Lab, SKKU
@@ -88,29 +95,184 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    Honors & Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    Awards:
+      - title: 1st Prize (Cross-City Object Detection)
+        date: 2026-09
+        awarder: 10th AI City Challenge in CVPR'26
+        url: https://www.aicitychallenge.org/2026-challenge-winners/
+        # summary:
+
+      - title: 2nd Prize (Multi-Camera 3D Perception)
+        date: 2026-09
+        awarder: 10th AI City Challenge in CVPR'26
+        url: https://www.aicitychallenge.org/2026-challenge-winners/
+        # summary:
+
+      - title: 2nd Prize (Road Object Detection in Fish-Eye Cameras)
+        date: 2025-10
+        awarder: 9th AI City Challenge in CVPR'25
+        url: https://www.aicitychallenge.org/2025-challenge-winners/
+        # summary:
+
+      - title: 2nd Prize (Multi-Camera 3D Perception)
+        date: 2025-10
+        awarder: 9th AI City Challenge in CVPR'25
+        url: https://www.aicitychallenge.org/2025-challenge-winners/
+        # summary:
+
+      - title: 1st Prize (Thermal Pedestrian Multiple Object Tracking)
+        date: 2025-06
+        awarder: 1st TP-MOT, 21st PBVS Workshop in CVPR'25
+        url: https://pbvs-workshop.github.io/history/2025/challenge.html
+        # summary:
+
+      - title: 2nd Prize (Naturalistic Driving Action Recognition)
+        date: 2024-06
+        awarder: 9th AI City Challenge in CVPR'24
+        url: https://www.aicitychallenge.org/2025-challenge-winners/
+        # summary:
+
+      - title: 3rd Prize (Road Object Detection in Fish-Eye Cameras)
+        date: 2024-06
+        awarder: 9th AI City Challenge in CVPR'24
+        url: https://www.aicitychallenge.org/2025-challenge-winners/
+        # summary:
+
+      - title: Top 100 Outstanding National R&D Achievements
+        date: 2023-12
+        awarder: Korean Minister of Science and ICT
+        # url:
+        # summary:
+
+      - title: 1st Prize (Detecting Violation of Helmet Rule for Motorcyclists)
+        date: 2023-06
+        awarder: 8th AI City Challenge in CVPR'23
+        url: https://www.aicitychallenge.org/2023-challenge-winners/
+        # summary:
+
+      - title: 3rd Prize (Object Detection in Haze)
+        date: 2023-06
+        awarder: 6th UG2+ in CVPR'22
+        url: https://cvpr2023.ug2challenge.org/program22/leaderboard22_t1.html
+        # summary:
+
+      - title: 3rd Prize (Object Detection in Haze)
+        date: 2022-06
+        awarder: 5th UG2+ in CVPR'22
+        url: https://cvpr2023.ug2challenge.org/program22/leaderboard22_t1.html
+        # summary:
+
+      - title: Best Paper Award Silver Prize
+        date: 2021-01
+        awarder: IEEE ICEIC'21
+        # url:
+        # summary:
+
+      - title: 1st Prize (Instance Segmentation) & 2nd Prize (Object Detection)
+        date: 2020-12
+        awarder: Driving Image AI Learning Dataset Contest, KATECH
+        url: https://www.skku.edu/skku/campus/skk_comm/popup_news_en.do?mode=view&articleNo=87367
+        # summary:
+
+      - title: 1st Prize (Forward 2D) & 1st Prize (Omni-directional 3D)
+        date: 2020-10
+        awarder: Automated Driving Recognition Technology Competition, in 4th Pangyo Autonomous Mobility Show
+        url: https://www.skku.edu/skku/campus/skk_comm/popup_news_en.do?mode=view&articleNo=86013
+        # summary:
+
+      - title: 2nd Prize (Forward 2D) & 2nd Prize (Omni-directional 3D)
+        date: 2019-10
+        awarder: Automated Driving Recognition Technology Competition, in 3rd Pangyo Autonomous Mobility Show
+        # url:
+        # summary:
+
+      - title: Best Paper Award
+        date: 2017-07
+        awarder: IEEE ICSSE'17
+        # url:
+        # summary:
+
+      - title: Bronze Medal
+        date: 2013-10
+        awarder: Vietnam Student Olympiad in Informatics (VNOI)
+        # url:
+        # summary:
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: A Vision‑Based Method for Real‑Time Traffic Flow Estimation on Edge Devices
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Duong Nguyen‑Ngoc Tran
+          - Long Hoang Pham
+          - Huy‑Hung Nguyen
+          - Jae Wook Jeon
+        publisher: IEEE Transactions on Intelligent Transportation Systems
+        releaseDate: 2023-08
+        url: doi.org/10.1109/TITS.2023.3264796
+        # summary:
+
+      - title: VisDrone-MOT2021 - The vision meets drone multiple object tracking challenge results
+        authors:
+          - Long Hoang Pham
+          - Duong Nguyen-Ngoc Tran
+          - and others
+        publisher: IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
+        releaseDate: 2021-10
+        url: https://ieeexplore.ieee.org/document/9607797/
+        # summary:
+
+      - title: A Smartphone‑Based Laser Measuring System for Gap and Flush Assessment in Car Body
+        authors:
+          - Long Hoang Pham
+          - Duong Nguyen‑Ngoc Tran
+          - Jin Young Byun
+          - Chul Hong Rhie
+          - Jae Wook Jeon
+        publisher: IEEE Transactions on Industrial Electronics
+        releaseDate: 2021-07
+        url: https://ieeexplore.ieee.org/document/9091939/
+        # summary:
+
+      - title: Analysis of the Smartphone Camera Exposure Effect on Laser Extraction
+        authors:
+          - Long Hoang Pham
+          - Duong Nguyen‑Ngoc Tran
+          - Chul Hong Rhie
+          - Jae Wook Jeon
+        publisher: 2021 International Conference on Electronics, Information, and Communication (ICEIC)
+        releaseDate: 2021-01
+        url: doi.org/10.1109/ICEIC51217.2021.9369723
+        # summary:
+
+      - title: Low‑Light Image Enhancement for Autonomous Driving Systems Using DriveRetinex‑Net
+        authors:
+          - Long Hoang Pham
+          - Duong Nguyen-Ngoc Tran
+          - Jae Wook Jeon
+        publisher: 2020 IEEE International Conference on Consumer Electronics ‑ Asia (ICCE‑Asia)
+        releaseDate: 2020-11
+        url: https://ieeexplore.ieee.org/document/9277442
+        # summary:
 
     Skills:
       - name: Computer Vision
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Object Detection & Tracking, Image Enhancement, Image Restoration, Segmentation, Video Processing"
+
+      - name: Programming
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "C/C++, Python, Swift, Objective-C, LaTeX, R"
+
+      - name: Frameworks
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "OpenCV, PyTorch, TensorRT, Git, Docker"
+
+      - name: Front-end
+        level: Fluent
+        icon: fa-solid fa-hashtag
+        keywords: "HTML, Qt"
 
     Languages:
       - name: Vietnamese
@@ -119,31 +281,81 @@ cv:
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Computer Vision
-        icon: fa-solid fa-tag
-        keywords: ""
+    # Interests:
+    #   - name: Computer Vision
+    #     icon: fa-solid fa-tag
+    #     keywords: ""
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: An Intelligent System for 24/7 Real-Time Traffic Surveillance on Edge Devices
+        summary: Develop a robust and efficient computer vision system for real-time traffic surveillance, capable of operating under various environmental conditions, including low-light and adverse weather. The goal is to deploy this system on edge devices for continuous monitoring and analysis of urban traffic, contributing to safer and more efficient transportation systems.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
+          - Traffic Surveillance System
+          - Large-Scale Urban Traffic Dataset
+          - Real-Time Edge Processing
+          - Low-Light Image Enhancement
+          - De-weathering & Image Restoration
+          - Road Segmentation & Lane Detection
+          - Vehicle Detection & Tracking
+          - Vehicle Reidentification
+          - Speed Estimation
+          - Traffic Flow Estimation
+          - Congestion Analysis
+          - Anomaly Detection
+        start_date: 2021-01-01
+        end_date: 2028-12-31
+        # url:
+
+      - name: Real-Time Scene Understanding Technology in Complex Traffic and Bad Weather
+        summary: Develop a real-time scene understanding technology that can accurately perceive and interpret complex traffic scenarios, even under challenging weather conditions. This project aims to enhance the safety and efficiency of autonomous vehicles by providing reliable perception capabilities in diverse environments.
+        highlights:
+          - Autonomous Vehicle Perception
+          - Semantic Segmentation
+          - Low-Light Image Enhancement
+          - Adverse Weather Image Restoration
+        start_date: 2020-01-01
+        end_date: 2022-12-31
+        # url:
+
+      - name: Development of A Smartphone-based Laser Measurement System for Assessment of Gap, Flush, and Curvature in Car Body
+        summary: Develop a smartphone-based laser measurement system that enables precise assessment of gap, flush, and curvature in car body panels. This project focuses on creating a portable and user-friendly solution for automotive quality control, leveraging advanced computer vision techniques and mobile application development to facilitate accurate measurements in real-time.
+        highlights:
+          - Automotive Quality Control
+          - Car Body Inspection
+          - Gap & Flush Measurement
+          - Surface Curvature Measurement
+          - Laser Triangulation
+          - Handheld Measurement Device
+          - Mobile Application Development
         start_date: 2018-01-01
-        end_date: 2018-01-01
+        end_date: 2021-12-31
+        # url:
+
+      - name: Piloting Project on the Intelligent Traffic System of Ho Chi Minh City
+        summary: Develop a smartphone-based laser measurement system that enables precise assessment of gap, flush, and curvature in car body panels. This project focuses on creating a portable and user-friendly solution for automotive quality control, leveraging advanced computer vision techniques and mobile application development to facilitate accurate measurements in real-time.
+        highlights:
+          - Intelligent Traffic Systems (ITS)
+          - CCTV Networks
+          - Vehicle Detection & Tracking
+          - Traffic Flow Estimation
+          - Heavy Occlusion Handling
+          - Real-Time Processing
+          - Real-World Deployment
+        start_date: 2015-01-01
+        end_date: 2017-12-31
+        # url:
 
     References:
       - name: Professor Jae Wook Jeon
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        # reference:
 
       - name: Dr. Synh Viet Uyen Ha
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        # reference:
