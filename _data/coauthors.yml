@@ -1,3 +1,22 @@
-"duongtran":
+"ha":
+  - firstname: ["Synh Vuet-Uyen", "Synh"]
+    url: https://scholar.google.com/citations?user=fbsL_6cAAAAJ&hl=en
+
+"ho":
+  - firstname: ["Quoc Pham-Nam", "Quoc"]
+    url: https://scholar.google.com/citations?user=fbsL_6cAAAAJ&hl=en
+
+"jeon":
+  - firstname: ["Jae Wook"]
+    url: https://scholar.google.com/citations?user=9z0SfKoAAAAJ&hl=en
+
+"nguyen":
+  - firstname: ["Huy-Hung"]
+    url: https://scholar.google.com/citations?user=jxoCog4AAAAJ&hl=en
+
+"tran":
   - firstname: ["Duong Nguyen-Ngoc", "Duong"]
     url: https://duongtran1708.github.io
+
+  - firstname: ["Chi Dai", "Chi"]
+    url: https://scholar.google.com/citations?user=sWfdhwEAAAAJ&hl=en
