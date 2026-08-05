@@ -1,8 +1,5 @@
 # Patents
-"KR Patent":
-  color: "#AA3377"
-
-"US Patent":
+"Patent":
   color: "#AA3377"
 
 # Journals
@@ -41,6 +38,6 @@
 "arXiv":
   color: "#BBBBBB"
 
-# Copyright
-"KR Copyright":
+# Misc
+"Copyright":
   color: "#228833"
