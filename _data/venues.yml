@@ -1,49 +1,52 @@
 # Patents
-"Patent":
-  color: "#AA3377"
+"KR Patent":
+  color: "#FFAABB"
+
+"US Patent":
+  color: "#FFAABB"
 
 # Journals
 "ACCESS":
   url: https://ieeeaccess.ieee.org/
-  color: "#EE6677"
+  color: "#EE8866"
 
 "TIE":
   url: https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics
-  color: "#EE6677"
+  color: "#EE8866"
 
 "TITS":
   url: https://ieee-itss.org/pub/t-its/
-  color: "#EE6677"
+  color: "#EE8866"
 
 "Journal":
-  color: "#EE6677"
+  color: "#EE8866"
 
 # Conferences
 "AAAI":
   url: https://aaai.org/
-  color: "#66CCEE"
+  color: "#99DDFF"
 
 "ACCV":
-  color: "#66CCEE"
+  color: "#99DDFF"
 
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#66CCEE"
+  color: "#99DDFF"
 
 "ECCV":
   url: https://eccv.ecva.net/
-  color: "#66CCEE"
+  color: "#99DDFF"
 
 "ICCV":
   url: https://iccv.thecvf.com/
-  color: "#66CCEE"
+  color: "#99DDFF"
 
 "arXiv":
   color: "#BBBBBB"
 
 "Conference":
-  color: "#66CCEE"
+  color: "#99DDFF"
 
 # Misc
 "Copyright":
-  color: "#228833"
+  color: "#44BB99"
