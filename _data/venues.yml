@@ -1,9 +1,46 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Patents
+"KR Patent":
+  color: "#AA3377"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"US Patent":
+  color: "#AA3377"
 
-"Vision":
-  color: "#009f36"
+# Journals
+"ACCESS":
+  url: https://ieeeaccess.ieee.org/
+  color: "#EE6677"
+
+"TIE":
+  url: https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics
+  color: "#EE6677"
+
+"TITS":
+  url: https://ieee-itss.org/pub/t-its/
+  color: "#EE6677"
+
+# Conferences
+"AAAI":
+  url: https://aaai.org/
+  color: "#66CCEE"
+
+"ACCV":
+  color: "#66CCEE"
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#66CCEE"
+
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#66CCEE"
+
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#66CCEE"
+
+"arXiv":
+  color: "#BBBBBB"
+
+# Copyright
+"KR Copyright":
+  color: "#228833"
