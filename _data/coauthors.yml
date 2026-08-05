@@ -6,6 +6,10 @@
   - firstname: ["Quoc Pham-Nam", "Quoc"]
     url: https://scholar.google.com/citations?user=fbsL_6cAAAAJ&hl=en
 
+"huynh":
+  - firstname: ["Ngoc Doan-Minh"]
+    url: https://scholar.google.com/citations?user=pCTUkWwAAAAJ&hl=en
+
 "jeon":
   - firstname: ["Jae Wook"]
     url: https://scholar.google.com/citations?user=9z0SfKoAAAAJ&hl=en
@@ -14,9 +18,17 @@
   - firstname: ["Huy-Hung"]
     url: https://scholar.google.com/citations?user=jxoCog4AAAAJ&hl=en
 
+"phan":
+  - firstname: ["Hung Ngoc"]
+    url: https://scholar.google.com/citations?user=5jCfU8IAAAAJ&hl=en
+
 "tran":
   - firstname: ["Duong Nguyen-Ngoc", "Duong"]
     url: https://duongtran1708.github.io
 
   - firstname: ["Chi Dai", "Chi"]
     url: https://scholar.google.com/citations?user=sWfdhwEAAAAJ&hl=en
+
+"vu":
+  - firstname: ["Tuan-Anh"]
+    url: https://scholar.google.com/citations?user=EgDjnEEAAAAJ&hl=en
