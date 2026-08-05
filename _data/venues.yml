@@ -1,25 +1,25 @@
 # Patents
 "KR Patent":
-  color: "#FFCCCC"
+  color: "#FFCCCC" # Without link use lighter color
 
 "US Patent":
-  color: "#FFCCCC"
+  color: "#FFCCCC" # Without link use lighter color
 
 # Journals
 "ACCESS":
   url: https://ieeeaccess.ieee.org/
-  color: "#222255"
+  color: "#222255" # With link use darker color
 
 "TIE":
   url: https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics
-  color: "#222255"
+  color: "#222255" # With link use darker color
 
 "TITS":
   url: https://ieee-itss.org/pub/t-its/
-  color: "#222255"
+  color: "#222255" # With link use darker color
 
 "Journal":
-  color: "#BBCCEE"
+  color: "#BBCCEE" # Without link use lighter color
 
 # Conferences
 "AAAI":
