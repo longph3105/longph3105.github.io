@@ -294,7 +294,7 @@ cv:
 
     Projects:
       - name: An Intelligent System for 24/7 Real-Time Traffic Surveillance on Edge Devices
-        summary: Develop a robust and efficient computer vision system for real-time traffic surveillance, capable of operating under various environmental conditions, including low-light and adverse weather. The goal is to deploy this system on edge devices for continuous monitoring and analysis of urban traffic, contributing to safer and more efficient transportation systems.
+        summary: This project focuses on developing an intelligent traffic surveillance system capable of operating 24/7 in real-time on edge devices. The system leverages advanced computer vision techniques to enhance traffic monitoring, improve road safety, and optimize traffic flow, even under challenging conditions such as low-light and adverse weather.
         highlights:
           - Traffic Surveillance System
           - Large-Scale Urban Traffic Dataset
@@ -313,7 +313,7 @@ cv:
         # url:
 
       - name: Real-Time Scene Understanding Technology in Complex Traffic and Bad Weather
-        summary: Develop a real-time scene understanding technology that can accurately perceive and interpret complex traffic scenarios, even under challenging weather conditions. This project aims to enhance the safety and efficiency of autonomous vehicles by providing reliable perception capabilities in diverse environments.
+        summary: This project aims to develop advanced computer vision algorithms for real-time scene understanding in complex traffic scenarios and adverse weather conditions. The focus is on enhancing the perception capabilities of autonomous vehicles, enabling them to navigate safely and efficiently in challenging environments.
         highlights:
           - Autonomous Vehicle Perception
           - Semantic Segmentation
@@ -324,7 +324,7 @@ cv:
         # url:
 
       - name: Development of A Smartphone-based Laser Measurement System for Assessment of Gap, Flush, and Curvature in Car Body
-        summary: Develop a smartphone-based laser measurement system that enables precise assessment of gap, flush, and curvature in car body panels. This project focuses on creating a portable and user-friendly solution for automotive quality control, leveraging advanced computer vision techniques and mobile application development to facilitate accurate measurements in real-time.
+        summary: This project focuses on creating a portable and user-friendly solution for automotive quality control, leveraging advanced computer vision techniques and mobile application development to facilitate accurate measurements in real-time.
         highlights:
           - Automotive Quality Control
           - Car Body Inspection
@@ -338,7 +338,7 @@ cv:
         # url:
 
       - name: Piloting Project on the Intelligent Traffic System of Ho Chi Minh City
-        summary: Develop a smartphone-based laser measurement system that enables precise assessment of gap, flush, and curvature in car body panels. This project focuses on creating a portable and user-friendly solution for automotive quality control, leveraging advanced computer vision techniques and mobile application development to facilitate accurate measurements in real-time.
+        summary: This project aimed to develop and implement an intelligent traffic system in Ho Chi Minh City, utilizing advanced computer vision techniques to enhance traffic management and monitoring. The system was designed to improve traffic flow, reduce congestion, and increase road safety through real-time data analysis and decision-making.
         highlights:
           - Intelligent Traffic Systems (ITS)
           - CCTV Networks
@@ -352,7 +352,7 @@ cv:
         # url:
 
     References:
-      - name: Professor Jae Wook Jeon
+      - name: Prof. Jae Wook Jeon
         icon: fa-solid fa-laptop
         # reference:
 
