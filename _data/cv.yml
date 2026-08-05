@@ -359,3 +359,15 @@ cv:
       - name: Dr. Synh Viet Uyen Ha
         icon: fa-solid fa-thumbtack
         # reference:
+
+      - name: Dr. Huy-Hung Nguyen
+        icon: fa-solid fa-thumbtack
+        # reference:
+
+      - name: Dr. Duong Nguyen-Ngoc Tran
+        icon: fa-solid fa-thumbtack
+        # reference:
+
+      - name: Dr. Tuan-Anh Vu
+        icon: fa-solid fa-thumbtack
+        # reference:
