@@ -228,7 +228,7 @@ exclude:
   - README.md
   - _pages/about_long.md
   - al-folio-upgrade-report.md
-  - archive/
+  - archives/
   - bin/
   - docker-compose-slim.yml
   - docker-compose.yml
