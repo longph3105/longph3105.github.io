@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GAP-FLUSH-HMC-2018
+title: GAP-HMC-2018
 description: Development of A Smartphone‑based Laser Measurement System for Assessment of Gap, Flush, and Curvature in Car Body
 img: assets/img/publication_preview/2021_07_tie.gif
 importance: 1
@@ -16,10 +16,10 @@ images:
 Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical displacement) between vehicle body panels is a critical quality control metric in automotive manufacturing. Traditional inspection relies either on expensive, rigid inline robotic arms or high-error manual tools (e.g., taper and dial gauges).
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_gap_flush.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -30,7 +30,7 @@ Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical di
 Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing CAE Team)**, this project engineered a handheld, low-cost **Smartphone-based Laser Measurement (SLM)** device {% cite Pham2021Smartphone %}. By combining a custom 3D-printed triangulation mount, a violet-blue line laser, and real-time mobile computer vision algorithms, the system replaces manual inspection tools directly on the assembly line.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
