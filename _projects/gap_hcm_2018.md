@@ -12,10 +12,25 @@ related_publications: true
 
 Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical displacement) between vehicle body panels is a critical quality control metric in automotive manufacturing. Traditional inspection relies either on expensive, rigid inline robotic arms or high-error manual tools (e.g., taper and dial gauges).
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/gap_flush.gif" title="Gap and Flush Definition" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/taper_gauge.jpg" title="Using the Taper Gauge" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/dial_gauge.jpg" title="Using the Dial Gauge" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: Gap and Flush definition. Middle: Using the Taper Gauge to measure gap. Right: Using the Dial Gauge to measure flush.
+</div>
+
 Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing CAE Team)**, this project engineered a handheld, low-cost **Smartphone-based Laser Measurement (SLM)** device {% cite Pham2021Smartphone %}. By combining a custom 3D-printed triangulation mount, a violet-blue line laser, and real-time mobile computer vision algorithms, the system replaces manual inspection tools directly on the assembly line.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_device.jpg" title="SLM 3D CAD & Physical Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -64,12 +79,12 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_measurement_ui.jpg" title="Live SLM UI Output" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_processing_speed.jpg" title="Processing Speed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Real-time measurement visualization on smartphone screen displaying calculated Gap ($W: 3.32\text{ mm}$) and Flush ($F: 0.06\text{ mm}$) values.
+    Real-time measurement visualization on smartphone screen displaying calculated Gap and Flush values.
 </div>
 
 * **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm 0.201\text{ mm}$ for Gap** and **$\pm 0.154\text{ mm}$ for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of $\pm 0.200\text{ mm}$.
