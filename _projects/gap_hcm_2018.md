@@ -64,8 +64,8 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
 1. **Ambient Light Rejection:** Captures high-contrast laser frames using negative exposure bias to reject background illumination {% cite Pham2021Analysis %}.
 2. **Sub-Pixel Profile Extraction:** Applies median spatial filtering followed by a **Center-of-Mass-Peak (CoMP)** algorithm to locate sub-pixel laser center coordinates along image columns {% cite Pham2021Improved %}.
 3. **Extreme Points Extraction:** Isolates dominant left and right laser contours and fits bounding circles to curved edge gaps to track true panel boundary coordinates {% cite Pham2021Developing %}.
-4. **Direct Polynomial Calibration:** Maps extracted pixel gaps and flushes to physical millimeter dimensions via weighted polynomial regression derived from a precision calibration board.
-5. **Real-Time Metric Computation:** Computes final real-world gap and flush parameters using the geometric triangulation relation.
+4. **Direct Polynomial Calibration:** Maps extracted pixel gaps and flushes to physical millimeter dimensions via weighted polynomial regression derived from a precision calibration board {% cite Pham2021Smartphone %}.
+5. **Real-Time Metric Computation:** Computes final real-world gap and flush parameters using the geometric triangulation {% cite Pham2021Smartphone %}.
 6. **Visualization:** Overlays live measurement HUD graphics on screen and transmits inspection logs via Bluetooth/Wi-Fi to central factory databases.
 
 ---
