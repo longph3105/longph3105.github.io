@@ -15,7 +15,7 @@ Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical di
 Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing CAE Team)**, this project engineered a handheld, low-cost **Smartphone-based Laser Measurement (SLM)** device {% cite Pham2021Smartphone %}. By combining a custom 3D-printed triangulation mount, a violet-blue line laser, and real-time mobile computer vision algorithms, the system replaces manual inspection tools directly on the assembly line.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_device.jpg" title="SLM 3D CAD & Physical Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -63,7 +63,7 @@ $$\begin{bmatrix} \partial X \\ \partial Z \end{bmatrix} = \begin{bmatrix} 1 & 0
 * **Significant Productivity Gain:** Reduced inspection cycle time from **$218.26\text{ man-seconds/car}$** (manual two-operator method) to **$11.01\text{ man-seconds/car}$**, saving **$1.38\text{ man-hours per car}$** on the production line.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slm_measurement_ui.jpg" title="Live SLM UI Output" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
