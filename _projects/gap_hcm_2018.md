@@ -15,7 +15,7 @@ Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical di
 Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing CAE Team)**, this project engineered a handheld, low-cost **Smartphone-based Laser Measurement (SLM)** device {% cite Pham2021Smartphone %}. By combining a custom 3D-printed triangulation mount, a violet-blue line laser, and real-time mobile computer vision algorithms, the system replaces manual inspection tools directly on the assembly line.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_device.jpg" title="SLM 3D CAD & Physical Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -23,23 +23,23 @@ Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing 
     </div>
 </div>
 <div class="caption">
-    Left: 3D CAD model of the reverse triangulation frame ($\alpha=45^\circ$). Right: Operational handheld prototype with integrated violet-blue laser and smartphone sensor.
+    Left: 3D CAD model of the reverse triangulation frame. Right: Operational handheld prototype with integrated violet-blue laser and iPhone X sensor.
 </div>
 
 ---
 
 ## Key Hardware & Optical Innovations
 
-* **Reverse Triangulation Geometry ($\alpha = 45^\circ$):** Designed a reverse optical setup where the smartphone camera is perpendicular to the car body panel while the laser is offset at $45^\circ$. This converts vertical surface shifts ($\partial Z$) directly into horizontal pixel displacements ($\partial y = \partial Z \tan 45^\circ = \partial Z$), maximizing height sensing resolution.
-* **Violet-Blue Laser Technology ($\lambda = 405\text{ nm}$):** Replaced standard red lasers with a $405\text{ nm}$ violet-blue line laser ($20\text{ mW}$) to eliminate light absorption and diffusion across dynamic car body paint colors (e.g., white, metallic silver, deep red, black).
+* **Reverse Triangulation Geometry:** Designed a reverse optical setup where the smartphone camera is perpendicular to the car body panel while the laser is offset at $45^\circ$. This converts vertical surface shifts ($\partial Z$) directly into horizontal pixel displacements ($\partial y = \partial Z \tan 45^\circ = \partial Z$), maximizing height sensing resolution.
+* **Violet-Blue Laser Technology:** Replaced standard red lasers with a $405\text{ nm}$ violet-blue line laser (20\text{ mW}$) to eliminate light absorption and diffusion across dynamic car body paint colors (e.g., white, metallic silver, deep red, black).
 * **Ambient Light Rejection via Shutter Bias:** Adapted a temporal exposure filtering technique, locking camera ISO/sensitivity ($S=22$) and forcing ultra-fast shutter speeds ($t = 1/306\text{ s}$ to $1/12000\text{ s}$) to completely suppress bright factory ambient lighting, isolating a single sharp laser profile.
 
 ---
 
 ## Methodology
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_workflow.jpg" title="Workflow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -60,18 +60,18 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
 
 ## Performance & Industrial Impact
 
-* **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm 0.201\text{ mm}$ for Gap** and **$\pm 0.154\text{ mm}$ for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of $\pm 0.200\text{ mm}$.
-* **Real-Time Execution:** Operates at **60 FPS at Full-HD** resolution using lightweight CPU-based mobile processing.
-* **Significant Productivity Gain:** Reduced inspection cycle time from **$218.26\text{ man-seconds/car}$** (manual two-operator method) to **$11.01\text{ man-seconds/car}$**, saving **$1.38\text{ man-hours per car}$** on the production line.
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_measurement_ui.jpg" title="Live SLM UI Output" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_processing_speed.jpg" title="Processing Speed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Real-time measurement visualization on smartphone screen displaying calculated Gap ($W: 3.32\text{ mm}$) and Flush ($F: 0.06\text{ mm}$) values.
 </div>
+
+* **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm 0.201\text{ mm}$ for Gap** and **$\pm 0.154\text{ mm}$ for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of $\pm 0.200\text{ mm}$.
+* **Real-Time Execution:** Operates at **60 FPS at Full-HD** resolution using lightweight CPU-based mobile processing.
+* **Significant Productivity Gain:** Reduced inspection cycle time from **218.26$ man-seconds/car$** (manual two-operator method) to **11.01 man-seconds/car**, saving **1.38 man-hours/car** on the production line.
