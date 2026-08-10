@@ -13,7 +13,7 @@ related_publications: true
 Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical displacement) between vehicle body panels is a critical quality control metric in automotive manufacturing. Traditional inspection relies either on expensive, rigid inline robotic arms or high-error manual tools (e.g., taper and dial gauges).
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/gap_flush.gif" title="Gap and Flush Definition" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
@@ -53,14 +53,20 @@ Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing 
 
 ## Methodology
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_workflow.jpg" title="Workflow" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Workflow of the real-time Gap and Flush measurement.
-</div>
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_17.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_18.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_19.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_20.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_21.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_22.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_23.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_24.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_25.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_26.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_27.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_28.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
 
 The real-time computer vision pipeline runs directly on the mobile device, executing six sequential stages:
 
