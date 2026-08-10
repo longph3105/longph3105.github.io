@@ -52,7 +52,7 @@ Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing 
     </div>
 </div>
 <div class="caption">
-    Demonstration of ambient light rejection using ultra-fast shutter bias.
+    Demonstration of ambient light rejection using ultra-fast shutter bias. Left: Default camera capture with ambient light interference. Right: Filtered laser profile with ambient light suppressed.
 </div>
 
 ---
