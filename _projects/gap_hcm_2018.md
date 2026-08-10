@@ -6,6 +6,9 @@ img: assets/img/publication_preview/2021_07_tie.gif
 importance: 2
 category: Work
 related_publications: true
+images:
+  compare: true
+  slider: true
 ---
 
 ## Overview
@@ -13,14 +16,14 @@ related_publications: true
 Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical displacement) between vehicle body panels is a critical quality control metric in automotive manufacturing. Traditional inspection relies either on expensive, rigid inline robotic arms or high-error manual tools (e.g., taper and dial gauges).
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/gap_flush.gif" title="Gap and Flush Definition" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_gap_flush.gif" title="Gap and Flush Definition" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/taper_gauge.jpg" title="Using the Taper Gauge" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_taper_gauge.jpg" title="Using the Taper Gauge" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/dial_gauge.jpg" title="Using the Dial Gauge" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_dial_gauge.jpg" title="Using the Dial Gauge" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
