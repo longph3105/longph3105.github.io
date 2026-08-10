@@ -76,7 +76,7 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
 Full presentation slides are available below for download: [ppt](https://docs.google.com/presentation/d/1H0pXIbIgaJg7n6uhVvQMmOCNUl5nYpxi/edit?usp=drive_link&ouid=115104576605687193169&rtpof=true&sd=true)
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
           <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_17.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
           <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_18.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -98,7 +98,7 @@ Full presentation slides are available below for download: [ppt](https://docs.go
 ## Performance & Industrial Impact
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_processing_speed.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
