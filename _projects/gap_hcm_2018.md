@@ -51,10 +51,9 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
 
 1. **Ambient Light Rejection:** Captures high-contrast laser frames using negative exposure bias to reject background illumination {% cite Pham2021Analysis %}.
 2. **Sub-Pixel Profile Extraction:** Applies median spatial filtering followed by a **Center-of-Mass-Peak (CoMP)** algorithm to locate sub-pixel laser center coordinates along image columns {% cite Pham2021Improved %}.
-3. **Extreme Points Extraction:** Isolates dominant left ($L$) and right ($R$) laser contours and fits bounding circles to curved edge gaps to track true panel boundary coordinates {% cite Pham2021Developing %}.
-4. **Direct Polynomial Calibration:** Maps extracted pixel gaps ($\partial x$) and flushes ($\partial y$) to physical millimeter dimensions via weighted polynomial regression derived from a precision calibration board.
-5. **Real-Time Metric Computation:** Computes final real-world gap ($B_g$) and flush ($B_f$) parameters using the geometric triangulation relation:
-$$\begin{bmatrix} \partial X \\ \partial Z \end{bmatrix} = \begin{bmatrix} 1 & 0 \\ 0 & 1/\tan\alpha \end{bmatrix} \begin{bmatrix} \partial x \\ \partial y \end{bmatrix} \begin{bmatrix} B_g \\ B_f \end{bmatrix}$$
+3. **Extreme Points Extraction:** Isolates dominant left and right laser contours and fits bounding circles to curved edge gaps to track true panel boundary coordinates {% cite Pham2021Developing %}.
+4. **Direct Polynomial Calibration:** Maps extracted pixel gaps and flushes to physical millimeter dimensions via weighted polynomial regression derived from a precision calibration board.
+5. **Real-Time Metric Computation:** Computes final real-world gap and flush parameters using the geometric triangulation relation.
 6. **Visualization:** Overlays live measurement HUD graphics on screen and transmits inspection logs via Bluetooth/Wi-Fi to central factory databases.
 
 ---
@@ -62,14 +61,14 @@ $$\begin{bmatrix} \partial X \\ \partial Z \end{bmatrix} = \begin{bmatrix} 1 & 0
 ## Performance & Industrial Impact
 
 * **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm 0.201\text{ mm}$ for Gap** and **$\pm 0.154\text{ mm}$ for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of $\pm 0.200\text{ mm}$.
-* **Real-Time Execution:** Operates at **$60\text{ FPS}$ at Full HD ($1920\times 1080$)** resolution using lightweight CPU-based mobile processing.
+* **Real-Time Execution:** Operates at **60 FPS at Full-HD** resolution using lightweight CPU-based mobile processing.
 * **Significant Productivity Gain:** Reduced inspection cycle time from **$218.26\text{ man-seconds/car}$** (manual two-operator method) to **$11.01\text{ man-seconds/car}$**, saving **$1.38\text{ man-hours per car}$** on the production line.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_measurement_ui.jpg" title="Live SLM UI Output" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_processing_speed.jpg" title="Processing Speed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
