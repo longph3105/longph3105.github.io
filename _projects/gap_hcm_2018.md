@@ -17,13 +17,13 @@ Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical di
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_gap_flush.gif" title="Gap and Flush Definition" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_gap_flush.gif" title="Gap and Flush Definition" class="img-fluid rounded z-depth-1" style="height: 250px; object-fit: cover;" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_taper_gauge.jpg" title="Using the Taper Gauge" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_taper_gauge.jpg" title="Using the Taper Gauge" class="img-fluid rounded z-depth-1" style="height: 250px; object-fit: cover;" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_dial_gauge.jpg" title="Using the Dial Gauge" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_dial_gauge.jpg" title="Using the Dial Gauge" class="img-fluid rounded z-depth-1" style="height: 250px; object-fit: cover;" %}
     </div>
 </div>
 <div class="caption">
