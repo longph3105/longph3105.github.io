@@ -16,13 +16,13 @@ images:
 Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical displacement) between vehicle body panels is a critical quality control metric in automotive manufacturing. Traditional inspection relies either on expensive, rigid inline robotic arms or high-error manual tools (e.g., taper and dial gauges).
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_gap_flush.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             Gap and Flush definition.
         </div>
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             Conventional manual inspection using a taper gauge and dial gauge.
