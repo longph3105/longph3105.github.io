@@ -18,6 +18,9 @@ Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing 
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_device.jpg" title="SLM 3D CAD & Physical Prototype" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_using_slm_device.jpg" title="Using the SLM Device" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Left: 3D CAD model of the reverse triangulation frame ($\alpha=45^\circ$). Right: Operational handheld prototype with integrated violet-blue laser and smartphone sensor.
@@ -64,7 +67,7 @@ $$\begin{bmatrix} \partial X \\ \partial Z \end{bmatrix} = \begin{bmatrix} 1 & 0
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slm_measurement_ui.jpg" title="Live SLM UI Output" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_slm_measurement_ui.jpg" title="Live SLM UI Output" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
