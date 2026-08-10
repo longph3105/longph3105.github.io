@@ -15,6 +15,9 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<!-- {% bibliography %} -->
+
+<!-- Limit number of entries per group or page -->
+{% bibliography --max 10 %}
 
 </div>
