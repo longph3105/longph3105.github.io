@@ -24,7 +24,7 @@ Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical di
     </div>
 </div>
 <div class="caption">
-    Left: Gap and Flush definition. Right: Using the Taper Gauge and Dial Gauge to measure gap and flush, respectively.
+    Left: Gap and Flush definition. Right: Conventional manual inspection using a taper gauge and dial gauge.
 </div>
 
 Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing CAE Team)**, this project engineered a handheld, low-cost **Smartphone-based Laser Measurement (SLM)** device {% cite Pham2021Smartphone %}. By combining a custom 3D-printed triangulation mount, a violet-blue line laser, and real-time mobile computer vision algorithms, the system replaces manual inspection tools directly on the assembly line.
@@ -45,6 +45,15 @@ Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing 
 * **Reverse Triangulation Geometry:** Designed a reverse optical setup where the smartphone camera is perpendicular to the car body panel while the laser is offset at $45^\circ$. This converts vertical surface shifts ($\partial Z$) directly into horizontal pixel displacements ($\partial y = \partial Z \tan 45^\circ = \partial Z$), maximizing height sensing resolution.
 * **Violet-Blue Laser Technology:** Replaced standard red lasers with a 405 nm violet-blue line laser (20 mW) to eliminate light absorption and diffusion across dynamic car body paint colors (e.g., white, metallic silver, deep red, black).
 * **Ambient Light Rejection via Shutter Bias:** Adapted a temporal exposure filtering technique, locking camera ISO/sensitivity ($S=22$) and forcing ultra-fast shutter speeds ($t = 1/306\text{ s}$ to $1/12000\text{ s}$) to completely suppress bright factory ambient lighting, isolating a single sharp laser profile.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_laser_filtering_compare.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Demonstration of ambient light rejection using ultra-fast shutter bias.
+</div>
 
 ---
 
