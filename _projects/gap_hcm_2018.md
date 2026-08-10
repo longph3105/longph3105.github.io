@@ -18,13 +18,16 @@ Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical di
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_gap_flush.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Gap and Flush definition.
+        </div>
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/figure_02.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Conventional manual inspection using a taper gauge and dial gauge.
+        </div>
     </div>
-</div>
-<div class="caption">
-    Left: Gap and Flush definition. Right: Conventional manual inspection using a taper gauge and dial gauge.
 </div>
 
 Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing CAE Team)**, this project engineered a handheld, low-cost **Smartphone-based Laser Measurement (SLM)** device {% cite Pham2021Smartphone %}. By combining a custom 3D-printed triangulation mount, a violet-blue line laser, and real-time mobile computer vision algorithms, the system replaces manual inspection tools directly on the assembly line.
