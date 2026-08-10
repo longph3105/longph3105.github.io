@@ -3,7 +3,7 @@ layout: page
 title: GAP-FLUSH-HMC-2018
 description: Development of A Smartphone‑based Laser Measurement System for Assessment of Gap, Flush, and Curvature in Car Body
 img: assets/img/publication_preview/2021_07_tie.gif
-importance: 2
+importance: 1
 category: Work
 related_publications: true
 images:
@@ -24,7 +24,7 @@ Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical di
     </div>
 </div>
 <div class="caption">
-    Left: Gap and Flush definition. Middle: Using the Taper Gauge to measure gap. Right: Using the Dial Gauge to measure flush.
+    Left: Gap and Flush definition. Right: Using the Taper Gauge and Dial Gauge to measure gap and flush, respectively.
 </div>
 
 Developed in collaboration with **Hyundai Motor Company (Advanced Manufacturing CAE Team)**, this project engineered a handheld, low-cost **Smartphone-based Laser Measurement (SLM)** device {% cite Pham2021Smartphone %}. By combining a custom 3D-printed triangulation mount, a violet-blue line laser, and real-time mobile computer vision algorithms, the system replaces manual inspection tools directly on the assembly line.
@@ -90,6 +90,6 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
     Real-time measurement visualization on smartphone screen displaying calculated Gap and Flush values.
 </div>
 
-* **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm 0.201\text{ mm}$ for Gap** and **$\pm 0.154\text{ mm}$ for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of $\pm 0.200\text{ mm}$.
+* **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm$ 0.201 mm for Gap** and **$\pm$ 0.154 mm for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of $\pm$ 0.200 mm$.
 * **Real-Time Execution:** Operates at **60 FPS at Full-HD** resolution using lightweight CPU-based mobile processing.
-* **Significant Productivity Gain:** Reduced inspection cycle time from **218.26$ man-seconds/car$** (manual two-operator method) to **11.01 man-seconds/car**, saving **1.38 man-hours/car** on the production line.
+* **Significant Productivity Gain:** Reduced inspection cycle time from **218.26$ man-seconds/car** (manual two-operator method) to **11.01 man-seconds/car**, saving **1.38 man-hours/car** on the production line.
