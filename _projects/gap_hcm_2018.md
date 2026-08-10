@@ -94,6 +94,7 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
         </div>
     </div>
 </div>
+
 ---
 
 ## Performance & Industrial Impact
