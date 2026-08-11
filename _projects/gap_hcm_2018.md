@@ -12,13 +12,20 @@ images:
 ---
 
 <style>
-  .post-title, .post-description {
-    text-align: center;
-  }
+    /* Centers the main page title and description */
+    .post-title, .post-description {
+        text-align: center;
+    }
+
+    /* Centers all headings within the page content */
+    .post h1, .post h2, .post h3, .post h4 {
+        text-align: center;
+    }
 </style>
 
+---
 
-<h2 align='center'>Overview</h2>
+## Overview
 
 Accurate measurement of **Gap** (horizontal distance) and **Flush** (vertical displacement) between vehicle body panels is a critical quality control metric in automotive manufacturing. Traditional inspection relies either on expensive, rigid inline robotic arms or high-error manual tools (e.g., taper and dial gauges).
 
