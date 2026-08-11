@@ -85,28 +85,28 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
 5. **Real-Time Metric Computation:** Computes final real-world gap and flush parameters using the geometric triangulation {% cite Pham2021Smartphone %}.
 6. **Visualization:** Overlays live measurement HUD graphics on screen and transmits inspection logs via Bluetooth/Wi-Fi to central factory databases.
 
----
-
-Full presentation slides are available below for download: [ppt](https://docs.google.com/presentation/d/1H0pXIbIgaJg7n6uhVvQMmOCNUl5nYpxi/edit?usp=drive_link&ouid=115104576605687193169&rtpof=true&sd=true)
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_17.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_18.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_19.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_20.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_21.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_22.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_23.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_24.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_25.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_26.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_27.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-          <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_28.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_17.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_18.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_19.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_20.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_21.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_22.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_23.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_24.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_25.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_26.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_27.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+            <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/projects/gap_hcm_2018/slide_28.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
         </swiper-container>
+        <div class="caption">
+            Full presentation slides are available below for download: <a href="https://docs.google.com/presentation/d/1H0pXIbIgaJg7n6uhVvQMmOCNUl5nYpxi/edit?usp=drive_link&ouid=115104576605687193169&rtpof=true&sd=true">ppt</a>
+        </div>
     </div>
 </div>
+
 ---
 
 ## Performance & Industrial Impact
