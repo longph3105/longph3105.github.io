@@ -1,9 +1,3 @@
-<style>
-  .post-title {
-    text-align: center;
-  }
-</style>
-
 ---
 layout: page
 title: GAP-HMC-2018
@@ -16,6 +10,13 @@ images:
   compare: true
   slider: true
 ---
+
+<style>
+  .post-title, .post-description {
+    text-align: center;
+  }
+</style>
+
 
 <h2 align='center'>Overview</h2>
 
