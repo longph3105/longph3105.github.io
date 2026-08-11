@@ -1,3 +1,9 @@
+<style>
+  .post-title {
+    text-align: center;
+  }
+</style>
+
 ---
 layout: page
 title: GAP-HMC-2018
