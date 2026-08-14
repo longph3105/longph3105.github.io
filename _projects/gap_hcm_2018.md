@@ -120,6 +120,6 @@ The real-time computer vision pipeline runs directly on the mobile device, execu
     </div>
 </div>
 
-* **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm$ 0.201 mm for Gap** and **$\pm$ 0.154 mm for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of $\pm$ 0.200 mm$.
+* **High Measurement Accuracy:** Evaluated under GUM (Guide to the Expression of Uncertainty in Measurement) and AIAG MSA standards. Achieved an expanded measurement uncertainty of **$\pm$ 0.201 mm for Gap** and **$\pm$ 0.154 mm for Flush** on real vehicle bodies, well within the strict automotive tolerance threshold of **$\pm$ 0.200 mm**.
 * **Real-Time Execution:** Operates at **60 FPS at Full-HD** resolution using lightweight CPU-based mobile processing.
-* **Significant Productivity Gain:** Reduced inspection cycle time from **218.26$ man-seconds/car** (manual two-operator method) to **11.01 man-seconds/car**, saving **1.38 man-hours/car** on the production line.
+* **Significant Productivity Gain:** Reduced inspection cycle time from **218.26 man-seconds/car** (manual two-operator method) to **11.01 man-seconds/car**, saving **1.38 man-hours/car** on the production line.
