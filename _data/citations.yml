@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-24'
 papers:
   xPyle9AAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -78,7 +78,7 @@ papers:
     title: A robust multiclass vehicle detection and classification algorithm for traffic surveillance system
     year: '2020'
   xPyle9AAAAAJ:M05iB0D1s5AC:
-    citations: 49
+    citations: 48
     title: 'VisDrone-MOT2021: The vision meets drone multiple object tracking challenge results'
     year: '2021'
   xPyle9AAAAAJ:M3NEmzRMIkIC:
@@ -114,7 +114,7 @@ papers:
     title: Improving object detection to fisheye cameras with open-vocabulary pseudo-label approach
     year: '2024'
   xPyle9AAAAAJ:TFP_iSt0sucC:
-    citations: 25
+    citations: 26
     title: Robust automatic motorcycle helmet violation detection for an intelligent transportation system
     year: '2023'
   xPyle9AAAAAJ:TQgYirikUcIC:
@@ -218,7 +218,7 @@ papers:
     title: Object Detection with Deep Leaning on Drive PX2
     year: '2020'
   xPyle9AAAAAJ:r0BpntZqJG4C:
-    citations: 26
+    citations: 27
     title: A robust traffic-aware city-scale multi-camera vehicle tracking of vehicles
     year: '2022'
   xPyle9AAAAAJ:rO6llkc54NcC:
