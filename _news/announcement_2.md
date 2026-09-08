@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are thrilled to announce that we are the [Winner](https://www.aicitychallenge.org/2026-challenge-winners/) of the 10th AI City Challenge Track 6!
+I am thrilled to announce that our team is the [Winner](https://www.aicitychallenge.org/2026-challenge-winners/) of the 10th AI City Challenge Track 6!
