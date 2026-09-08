@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-07'
 papers:
   xPyle9AAAAAJ:-f6ydRqryjwC:
-    citations: 2
+    citations: 3
     title: Analysis of the smartphone camera exposure effect on laser extraction
     year: '2021'
   xPyle9AAAAAJ:2P1L_qKh6hAC:
-    citations: 1
+    citations: 3
     title: Data augmentation is all you need for robust fisheye object detection
     year: '2025'
   xPyle9AAAAAJ:35N4QoGY0k4C:
-    citations: 33
+    citations: 36
     title: Dynamic retraining-updating mean teacher for source-free object detection
     year: '2024'
   xPyle9AAAAAJ:3fE2CSJIrl8C:
@@ -46,7 +46,7 @@ papers:
     title: "\uC790\uB3D9\uACC4\uC0B0\uB300 \uC2DC\uC2A4\uD15C\uC758 \uC0C1\uD488 \uAC80\uCD9C\uBC29\uBC95 \uBC0F \uC774\uB97C \uC704\uD55C \uC0C1\uD488 \uAC80\uCD9C\uC7A5\uCE58 (Method and device for product detecting of automatic checkout system)"
     year: '2025'
   xPyle9AAAAAJ:EUQCXRtRnyEC:
-    citations: 0
+    citations: 1
     title: A Hybrid Data-Centric Framework for Thermal Multiple-Object Tracking with Complex Motion Patterns
     year: '2026'
   xPyle9AAAAAJ:GnPB-g6toBAC:
@@ -78,7 +78,7 @@ papers:
     title: A robust multiclass vehicle detection and classification algorithm for traffic surveillance system
     year: '2020'
   xPyle9AAAAAJ:M05iB0D1s5AC:
-    citations: 48
+    citations: 50
     title: 'VisDrone-MOT2021: The vision meets drone multiple object tracking challenge results'
     year: '2021'
   xPyle9AAAAAJ:M3NEmzRMIkIC:
@@ -97,6 +97,10 @@ papers:
     citations: 11
     title: Optimizing monocular driving assistance for real-time processing on Jetson AGX Xavier
     year: '2024'
+  xPyle9AAAAAJ:NhqRSupF_l8C:
+    citations: 1
+    title: Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection
+    year: '2026'
   xPyle9AAAAAJ:R3hNpaxXUhUC:
     citations: 0
     title: An Improved Sub-Pixel Laser Center Extraction Using Peak Position and Contour Detection Methods
@@ -106,11 +110,11 @@ papers:
     title: "Method for predicting traffic information, apparatus for predicting traffic information, and storage medium storing instructions to perform method for predicting traffic \u2026"
     year: '2023'
   xPyle9AAAAAJ:RHpTSmoSYBkC:
-    citations: 12
+    citations: 13
     title: 'DeepACO: A Robust Deep Learning-based Automatic Checkout System'
     year: '2022'
   xPyle9AAAAAJ:RYcK_YlVTxYC:
-    citations: 16
+    citations: 17
     title: Improving object detection to fisheye cameras with open-vocabulary pseudo-label approach
     year: '2024'
   xPyle9AAAAAJ:TFP_iSt0sucC:
@@ -166,7 +170,7 @@ papers:
     title: Device and method for detecting on product in automatic checkout system, storage medium storing instructions to perform method for detecting on product in automatic checkout system
     year: '2026'
   xPyle9AAAAAJ:dhFuZR0502QC:
-    citations: 21
+    citations: 22
     title: A smartphone-based laser measuring system for gap and flush assessment in car body
     year: '2020'
   xPyle9AAAAAJ:f2IySw72cVMC:
@@ -178,7 +182,7 @@ papers:
     title: Automatic checkout system, method for controlling automatic checkout system, and storage medium storing instructions to perform method for controlling automatic checkout system
     year: '2024'
   xPyle9AAAAAJ:hC7cP41nSMkC:
-    citations: 7
+    citations: 8
     title: A mobile vision-based system for gap and flush measuring between planar surfaces using ArUco markers
     year: '2021'
   xPyle9AAAAAJ:hFOr9nPyWt4C:
@@ -202,7 +206,7 @@ papers:
     title: A Novel Tuning Method for Real-time Multiple-Object Tracking Utilizing Thermal Sensor with Complexity Motion Pattern
     year: '2025'
   xPyle9AAAAAJ:ldfaerwXgEUC:
-    citations: 5
+    citations: 6
     title: 'Depthtrack: Cluster meets bev for multi-camera multi-target 3d tracking'
     year: '2025'
   xPyle9AAAAAJ:maZDTaKrznsC:
@@ -214,7 +218,7 @@ papers:
     title: "\uC800\uC870\uBA85\uB3C4 \uC601\uC0C1 \uAC1C\uC120\uC744 \uC704\uD55C \uAC00\uC774\uB514\uB4DC \uCEE4\uBE0C \uCD94\uC815 \uBC29\uBC95 \uBC0F \uC7A5\uCE58 (Guided curve estimation method and apparatus for enhancing low-light images)"
     year: '2025'
   xPyle9AAAAAJ:qUcmZB5y_30C:
-    citations: 10
+    citations: 12
     title: Object Detection with Deep Leaning on Drive PX2
     year: '2020'
   xPyle9AAAAAJ:r0BpntZqJG4C:
@@ -222,7 +226,7 @@ papers:
     title: A robust traffic-aware city-scale multi-camera vehicle tracking of vehicles
     year: '2022'
   xPyle9AAAAAJ:rO6llkc54NcC:
-    citations: 1
+    citations: 3
     title: 'TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions'
     year: '2026'
   xPyle9AAAAAJ:u5HHmVD_uO8C:
@@ -234,9 +238,13 @@ papers:
     title: "\uAD50\uD1B5\uC815\uBCF4 \uC608\uCE21 \uBC29\uBC95 \uBC0F \uC7A5\uCE58 (Method for predicting traffic information and apparatus thereof)"
     year: '2025'
   xPyle9AAAAAJ:vV6vV6tmYwMC:
-    citations: 4
+    citations: 5
     title: Dual Memory Networks Guided Reverse Distillation for Unsupervised Anomaly Detection
     year: '2024'
+  xPyle9AAAAAJ:xtRiw3GOFMkC:
+    citations: 1
+    title: 'Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking'
+    year: '2026'
   xPyle9AAAAAJ:yD5IFk8b50cC:
     citations: 0
     title: "\uC778\uACF5 \uC2E0\uACBD\uB9DD\uC758 \uD559\uC2B5\uC744 \uC704\uD55C \uB370\uC774\uD130\uB97C \uC0DD\uC131\uD558\uB294 \uC7A5\uCE58 \uBC0F \uBC29\uBC95 (Apparatus and method for generating data for learning of artificial neural network)"
