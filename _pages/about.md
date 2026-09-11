@@ -6,7 +6,7 @@ subtitle: Senior Researcher | <a href='https://micro.skku.ac.kr/micro/index.do'>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_02.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 83354</p>
