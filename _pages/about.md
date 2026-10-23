@@ -26,7 +26,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3  # leave blank to include all the blog posts
+  limit: 5  # leave blank to include all the blog posts
 ---
 
 I am currently a **Senior Researcher** in the Department of Electrical & Computer Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/index.do), working in the [Automation Lab](https://www.skku.edu/eng/index.do) advised by [Prof. Jae Wook Jeon](https://scholar.google.co.kr/citations?user=9z0SfKoAAAAJ&hl=ko).
