@@ -4,6 +4,15 @@
 
 `al-folio` v1.x is a **thin Jekyll starter, not a theme**. This repo owns starter wiring, example content, docs, and cross-plugin tests. All runtime — layouts, includes, Sass, Liquid tags, filters, feature JS — lives in versioned gems published under [`al-org-dev`](https://github.com/al-org-dev).
 
+## Session Start
+
+At the start of every session (new, after a manual `/clear` or reset, or resumed after a long idle gap),
+make your first reply, before any other work:
+
+1. **Agent:** tool/harness and version if known, model name and ID.
+2. **Machine:** `hostname -s` and OS.
+3. **Purpose:** ask what this session is for; wait for the answer before starting work.
+
 ## Route your change
 
 Find your change on the left; edit only what is on the right.
